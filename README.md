@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 👨‍🎓 About Me
 
-- 📖 Pursuing MS in Computer Science and Physics @ [Union College](https://www.union.edu/)
+- 📖 Pursuing BS in Computer Science and Physics @ [Union College](https://www.union.edu/)
 <!-- - 💻 Currently building ...[...](...) with ...-->
 
 ## 🖥️ Projects
