@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📖 Pursuing degrees in Computer Science and Physics @ [Union College](https://www.union.edu/)
 - 💻 Currently building Tapd
 
-## 🖥️ Projects
+<!-- ## 🖥️ Projects -->
 
 <table>
 <tr>
