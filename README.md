@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ## 👨‍🎓 About Me
 
-- 📖 Pursuing BS in Computer Science and Physics @ [Union College](https://www.union.edu/)
-<!-- - 💻 Currently building ...[...](...) with ...-->
+- 📖 Pursuing degrees in Computer Science and Physics @ [Union College](https://www.union.edu/)
+- 💻 Currently building Tapd
 
 ## 🖥️ Projects
 
