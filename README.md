@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 👨‍🎓 About Me
 
 - 📖 Pursuing degrees in Computer Science and Physics @ [Union College](https://www.union.edu/)
-- 💻 Currently building Tapd
+- 💻 Currently building Tapd @usetapd.com
 
 <!-- ## 🖥️ Projects -->
 
